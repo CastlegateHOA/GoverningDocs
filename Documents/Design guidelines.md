@@ -108,11 +108,10 @@ No tree, shrub, or plant of any kind on any Lot may overhang or otherwise encroa
 
 #### Landscape Design Requirements
 * A minimum of one 15-gallon tree on all lots (live and planted in-ground). A cactus is an acceptable substitution so long as it is a minimum of five (5) feet tall when planted (not at full maturity).
-* A minimum of six 2.5-gallon shrubs must be maintained in the front yard at all times (live and planted in-ground).
-* Granite: approved size range from %”-1” in size and must be of a natural earth tone color. White, green or red rock will not be approved. River rock may be used sparingly in accent locations only.
+* A minimum of three 2.5-gallon shrubs must be maintained in the front yard at all times (live and planted in-ground).
+* Granite: approved size range from 1/4”-1” in size and must be of a natural earth tone color. White, green or red rock will not be approved. River rock may be used sparingly in accent locations only.
 * Woodchips may not be used as groundcover.
 * Artificial plants/trees of any kind will not be considered towards any minimum landscaping requirements.
-* Potted plants/trees of any kind will not be considered towards any minimum landscaping requirements.
 * If you choose a plant/tree from the approved list, you may bring your yard into compliance without submitting to the Committee. If you want additional plants/trees past these amounts or something different from the approved list, please submit for approval.
 
 #### Landscape Submittal Requirements
@@ -178,7 +177,7 @@ All landscaping shall be maintained in a neat and attractive condition. Minimum 
 Installation of outdoor fireplaces requires advance approval by the Committee. Outdoor fireplaces may not exceed fence height.
 
 ### Outdoor Lighting and Holiday Decorations
-Any additional outdoor lighting Installed on a lot or dwelling must receive advance approval by the Committee. Permanent lighting sources shall not be directed towards streets, common areas or neighboring property. Holiday lights/decorations may be placed no more than 30 days before a holiday and shall be removed 30 days after the holiday. Holidays for decorations are as follows: Halloween, Thanksgiving, Christmas, Hanukah, Ramadan, Kwanza, Easter and Independence Day. The Board reserves the right to require removal of decorations based on size, quantity, location and any other criteria that the Board may determine.
+Any additional outdoor lighting installed on a Lot or dwelling must receive advance approval by the Committee. Permanent lighting sources shall not be directed towards streets, common areas or neighboring property. Holiday lights/decorations may be placed no more than 30 days before a holiday and shall be removed 30 days after the holiday. The Board reserves the right to require removal of decorations based on size, quantity, location and any other criteria that the Board may determine.
 
 ### Painting (Home Exterior)
 Approval from the Committee to paint your home the original color scheme is not required, however; the Board requires that the Association be provided in writing (email is sufficient) with the color scheme detail and date that the home is painted so that the Lot file may be updated. If a color change is desired, the proposed color scheme must be submitted to the Committee for approval prior to painting.
