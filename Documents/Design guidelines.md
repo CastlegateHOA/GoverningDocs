@@ -59,8 +59,10 @@ No home smaller than 1,000 square feet livable Is allowed, except in "The Villag
 ### Air Conditioners/Window Units
 Window air conditioners require approval of the Committee prior to installation. If approved, the unit must be painted to match the color of the home where installed.
 
-### Basketball Hoops
-Homeowners must submit an application to the Committee for approval prior to the installation or placement of a basketball hoop . Hoops will be allowed as a permanent installation adjacent to the driveway; portable hoops are prohibited. Strict guidelines will be adhered to regarding the quality of equipment and installation and special attention will be paid to placement of the pole on the lot. Backboards may be transparent or a standard type with highly visible logo material prohibited. No lighting designed to illuminate basketball hoops shall be installed without prior written approval of the Committee. Hoops and nets must be maintained in a near new condition.
+### Basketball Goals and Backboards
+Homeowners must submit an application to the Committee for approval prior to the installation or placement of a permanent basketball goal or backboard. Strict guidelines will be adhered to regarding the quality of equipment and installation and special attention will be paid to placement of the pole on the lot. Backboards may be transparent or a standard type with highly visible logo material prohibited. No lighting designed to illuminate basketball goals or backboards shall be installed without prior written approval of the Committee. All basketball goals or backboards must be maintained in a near new condition.
+
+Portable basketball goals or backboards must be stored on the homeowner's lot and may not be stored on sidewalks, roadways, or common areas. Portable basketball goals or backboards must also be sufficiently weighted or secured so they do not tip or fall (such as due to windy weather).
 
 ### Clotheslines
 Clotheslines or other outside facilities for drying clothes are not permitted unless they are placed exclusively within a fenced yard and not visible above the top of the block wall or otherwise concealed.
@@ -100,7 +102,7 @@ Plans must also include the proposed locations of the gutters and downspouts, th
 ### Landscape Guidelines
 The Design Review Committee requires that "front yard" (includes visible side yard) landscape plans be submitted for approval before installation. Contact committee before drawing plans.
 
-Rear yard structures which are taller than the fence or are visible from outside the property (swings, gazebos, basketball hoops, trampolines, etc.) also require approval. All yards must be maintained in a neat, weed-free, debris free condition. No tree, shrub, or plant of any kind on any Lot may overhang or otherwise encroach upon any sidewalk or other pedestrian way from ground level to a height of eight (8) feet.
+Rear yard structures which are taller than the fence or are visible from outside the property (swings, gazebos, permanent basketball goals or backboards, trampolines, etc.) also require approval. All yards must be maintained in a neat, weed-free, debris free condition. No tree, shrub, or plant of any kind on any Lot may overhang or otherwise encroach upon any sidewalk or other pedestrian way from ground level to a height of eight (8) feet.
 
 All yards must be maintained in a neat, weed free, debris free condition.
 
