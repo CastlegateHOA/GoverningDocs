@@ -40,7 +40,7 @@ In general, any exterior addition or alteration to an existing residence shall b
 ### Minimum Dwelling Size
 No home smaller than 1,000 square feet livable Is allowed, except in "The Villages" no home smaller than 900 square feet livable is allowed.
 
-### COMMUNITY GUIDELINES
+### Community Guidelines
 #### Air Conditioners/Window Units
 Window air conditioners require approval of the Committee prior to installation. If approved, the unit must be painted to match the color of the home where installed.
 
@@ -227,7 +227,7 @@ Umbrellas and sails in the backyard visible from neighboring properties will be 
 #### Window Coverings Criteria
 No reflective materials, Including, but not limited to, aluminum foil, reflective screens or glass, mirrors or similar type items, or temporary window coverings such as newspaper or bed sheets shall be installed or placed upon the outside or inside of any window of any house without the prior written approval of the Committee. No enclosures, drapes, blinds, shades, screens, awnings, or other items affecting the exterior appearance of the house shall be constructed or installed in any home without the prior written consent of the Committee. The Board has given blanket approval to all off-white or white, shutters, mini-blinds, and vertical blinds installed on the interior of windows.
 
-### ASSOCIATION RULES
+### Association Rules
 The following community rules summarize some of the common provisions found in the CC&Rs as well as rules established by the Board. Cooperation on the part of all residents in following these rules will make living at Castlegate an enjoyable experience.
 
 #### Right of Entry
@@ -253,7 +253,7 @@ No motor vehicle classed by manufacturer as exceeding 3/4 ton, mobile home, trav
 Residents are allowed to keep a reasonable number of generally recognized house or yard pets. Animals cannot be kept or raised for commercial purposes, and they are not allowed to make an unreasonable amount of noise or become a nuisance to neighbors. Dog runs must have prior approval of the Committee. Dogs must remain on leashes at all times while outside fenced yards and are not allowed on or within 100 feet of tot lots or play areas. All owners must clean up after their pet.
 
 
-## RESOLUTION REGARDING RULES OF AUDIOTAPING OR VIDEOTAPING OF BOARD AND MEMBER MEETINGS
+## Audiotaping or Videotaping of Board and Member Meetings
 Per to A.R.S. §33-1804(A), the Board of Directors has the authority to adopt reasonable rules governing the audiotaping and videotaping of open Board Meetings and Member Meetings. Pursuant to this authority, the Board of Directors adopts the following resolution regarding rules for the audiotaping or videotaping of Open Board Meetings and Member Meetings.
 
 1. For in person meetings, the audiotaping or videotaping device must always be visible to the Board of Directors while audiotaping or videotaping.
@@ -262,29 +262,29 @@ Per to A.R.S. §33-1804(A), the Board of Directors has the authority to adopt re
 4. Any audio or video tape of a meeting, regardless of whether the meeting is in-person, virtual or telephonic, shall not be edited.
 5. The resulting audio or video tape, regardless of whether resulting from in-person, virtual or telephonic meeting, may only be presented to Members and cannot be delivered to non-Members or posted where non-Members have access to hear or view the audiotaping or videotaping, except as used as evidence in a dispute resolution proceeding.
 
-## FINE POLICY & FINE APPEAL PROCESS
+## Fine Policy & Fine Appeal Process
 
 Effective March 26, 2024
 
-### FINE POLICY
+### Fine Policy
 The following Fine and Appeals Policy shall be followed for Castlegate Community Association.
 
-FIRST NOTICE: A courtesy notice of the violation shall be mailed via regular mail to the homeowner requesting compliance within fourteen (14) days - NO FINE.
+First notice: A courtesy notice of the violation shall be mailed via regular mail to the homeowner requesting compliance within fourteen (14) days - NO FINE.
 
-SECOND NOTICE: If violation still exists, a second notice requesting compliance within fourteen (14) days shall be mailed to the homeowner. A $25.00 FINE will be assessed and due immediately with the second notice.
+Second notice: If violation still exists, a second notice requesting compliance within fourteen (14) days shall be mailed to the homeowner. A $25.00 FINE will be assessed and due immediately with the second notice.
 
-THIRD NOTICE: If violation still exists, a third notice requesting compliance within fourteen (14) days shall be mailed to the homeowner. A $50.00 FINE will be assessed and due immediately with the third notice.
+Third notice: If violation still exists, a third notice requesting compliance within fourteen (14) days shall be mailed to the homeowner. A $50.00 FINE will be assessed and due immediately with the third notice.
 
-FOURTH NOTICE: If violation still exists, a fourth notice requesting compliance within fourteen (14) days shall be mailed to the homeowner. A $100.00 FINE will be assessed and due immediately with the fourth notice.
+Fourth notice: If violation still exists, a fourth notice requesting compliance within fourteen (14) days shall be mailed to the homeowner. A $100.00 FINE will be assessed and due immediately with the fourth notice.
 
-CONTINUING VIOLATIONS: If the violation continues without resolution after the fourth notice, a FINE of $100.00 shall be assessed every fourteen (14) days until the violation is resolved. In addition, the Board shall have the right to remedy the violation and/or take legal action, the cost of which shall be billed to the homeowner and collected as allowed by Arizona Revised Statutes.
+Continuing violations: If the violation continues without resolution after the fourth notice, a FINE of $100.00 shall be assessed every fourteen (14) days until the violation is resolved. In addition, the Board shall have the right to remedy the violation and/or take legal action, the cost of which shall be billed to the homeowner and collected as allowed by Arizona Revised Statutes.
 
-FINES: No fine shall be imposed without first providing a written warning to the Owner describing the violation and stating that failure to stop the violation within no less than fourteen (14) days or **another recurrence of the same violation within three (3) months of the original violation** shall make the Owner subject to imposition of a fine.
+Fines: No fine shall be imposed without first providing a written warning to the Owner describing the violation and stating that failure to stop the violation within no less than fourteen (14) days or **another recurrence of the same violation within three (3) months of the original violation** shall make the Owner subject to imposition of a fine.
 
 Notwithstanding the foregoing, the Board reserves the right to remedy, regardless of the presence or absence of notices hereunder, any violation that the Board determines in its sole and absolute discretion constitutes a material danger to persons or property or requires immediate action for any other substantial reason.
 
-### VIOLATION APPEAL PROCESS
-* When a violation notice is sent to a homeowner, the notice includes a statement notifying the homeowner that they have the "RIGHT OF APPEAL".
+### Violation Appeal Process
+* When a violation notice is sent to a homeowner, the notice includes a statement notifying the homeowner that they have the "Right of Appeal".
 * When a homeowner wants to appeal a violation, they must send the Management Company written notice that they are requesting an appeal of the violation.
 * Appeals shall be received within ten (10) days of the date of the fine notification (violation letter).
 * Appeals shall demonstrate **extenuating circumstances** which require deviation from the CC&R’s and/or guidelines.
@@ -300,33 +300,8 @@ Notwithstanding the foregoing, the Board reserves the right to remedy, regardles
 * Upon completion of the question and answer period, the Board President will state that the appeal has been heard and the Board will make their decision in closed session. Then "Written Notice" will be given to the homeowner of the Board’s decision within seven (7) working days.
 * If the appeal is denied, the homeowner must bring the violation into compliance within fourteen (14) days. If the violation still exists after fourteen (14) days, the homeowner will be fined $100.00 every fourteen (14) days until the violation is corrected. In addition, the Board of Directors may seek legal action to remedy the violation.
 
-### CONSENT TO ACTION BY THE BOARD OF DIRECTORS
 
-CASTLEGATE COMMUNITY ASSOCIATION
-
-c/o AAM, LLC
-
-1600 W. Broadway Rd., Ste 200
-
-Tempe, AZ 85282
-
-(602) 957-9191
-
-#### FINE POLICY & FINE APPEAL PROCESS
-
-The undersigned, constituting a majority of the members of the Board of Directors of Castlegate Community Association, an Arizona nonprofit corporation, hereby take the following action at a duly called meeting of the Board held on March 20, 2024.
-
-RESOLVED, that the Board of Directors hereby approves the attached Fine Policy and Fine Appeal Process for Castlgate Community Association.,
-
-FURTHER RESOLVED, that the Board of Directors hereby instructs the managing agent to notify all homeowners of the implementation of the Fine Policy and Fine Appeal Process effective as of March 26, 2024.
-
-IN WITNESS WHEREOF, the undersigned have executed this consent as of this 26th day of May, 2021.
-
-Devin Rich
-
-President and Director, Castlegate Community Association
-
-## ASSESSMENT COLLECTION POLICY
+## Assessment Collection Policy
 
 Effective July 1, 2021
 
@@ -382,35 +357,6 @@ The Board of Directors authorizes Payment Plans for past due balances (including
 
 The Board of Directors will generally not consider waiver of late fees, lien fees, attorneys’ fees, or other collection costs incurred on an account where the assessments were not paid in accordance with the Assessment Collection Policy through no fault of the Association or its Agent(s). However, the Board of Directors retains full discretion to make business decisions concerning the collectability of accounts and their compromise or settlement.
 
-## CONSENT TO ACTION
-
-BY THE BOARD OF DIRECTORS
-
-CASTLEGATE COMMUNITY ASSOCIATION
-
-c/o AAM, LLC
-
-1600 W. Broadway Rd., Ste 200
-
-Tempe, AZ 85282
-
-(602) 957-9191
-
-ASSESSMENT COLLECTION POLICY
-
-The undersigned, constituting a majority of the members of the Board of Directors of Castlegate Community Association, an Arizona nonprofit corporation, hereby take the following actions at a duly called meeting of the Board held on May 26, 2021.
-
-RESOLVED, that the Board of Directors hereby approves the attached Assessment Collection Policy for Castlegate Community Association.
-
-FURTHER RESOLVED, that the Board of Directors hereby instructs the managing agent to notify all Owners of the implementation of the Assessment
-
-Collection Policy effective as of July 1, 2021.
-
-IN WITNESS WHEREOF, the undersigned have executed this consent as of this 26th day of May, 2021.
-
-Alison Garshak
-President and Director, Castlegate Community Association
-
 ## Transfer Fee
 
 The undersigned, representing a majority of the members of the Board of Directors of Castlegate Community Association, an Arizona non-profit corporation, hereby take the following actions at a duly called meeting of the Board held on January 25, 2021.
@@ -436,7 +382,7 @@ Castlegate Community Association
 
 Effective February 1, 2019
 
-Pursuant to the authority contained in the Arizona Revised Statutes and the governing document of the association, the Board of Directors of the CASTLEGATE COMMUNITY ASSOCIATION Inc. hereby adopts the following resolution by unanimous consent for and as the actions of the CASTLEGATE COMMUNITY ASSOCIATION, as of the date set forth above:
+Pursuant to the authority contained in the Arizona Revised Statutes and the governing document of the association, the Board of Directors of the Castlegate Community Association Inc. hereby adopts the following resolution by unanimous consent for and as the actions of the Castlegate Community Association, as of the date set forth above:
 
 RESOLVED, to adopt the following:
 
