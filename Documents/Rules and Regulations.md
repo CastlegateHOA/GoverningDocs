@@ -16,7 +16,7 @@ Every homeowner of Castlegate is a member of the Castlegate Homeowners' Associat
 The Board of Directors (the "Board") is charged with the responsibility for overseeing the business of the Association and has a wide range of powers. The Design Review Committee (the "Committee") is established by the Board to review all improvements within Castlegate including new construction, modifications to existing properties and landscaping. The Committee has adopted Design Review guidelines and standards to evaluate proposed construction activities. The Committee is hereby empowered to supplement and amend the Design Review guidelines and its procedural rules and regulations to the extent and with the frequency it deems necessary; provided, however, that such modifications are in general conformity with the standards set forth in the CC&Rs. IMPORTANT: The CC&R's also have many restrictions and guidelines. Many of these are found in Article 4 "use restrictions".
 
 ### Design Review Process
-Any change, addition. or modification to a site or building exterior of a residential property requires the prior written approval of the Committee. Residents with proposed changes should contact their management company, with whom the Association has contracted for full Association management. to obtain the necessary Design Review guidelines and submittal documentation.
+Any change, addition, or modification to a site or building exterior of a residential property requires the prior written approval of the Committee. Residents with proposed changes should contact their management company, with whom the Association has contracted for full Association management, to obtain the necessary Design Review guidelines and submittal documentation.
 
 Simply stated, no new construction, front yard landscaping, or remodeling, including changes in exterior color is to occur on any Lot or exterior of any home without the prior approval of the committee. The responsibility of the Committee is to manage the application and approval process, fairly enforcing guidelines outlined in the governing documents, making objective decisions about guideline compliance, making recommendations to the Board of Directors, reviewing guidelines for adequacy, and educating the community on the guidelines. Your submittal will be returned to you either approved, denied, or for more information once it has been reviewed by the Committee. Homeowners may appeal the decisions of the Committee to the board for consideration, in which case the decision of the Board shall prevail. Such appeals must be requested, in writing/email within 10 calendar days of the date of denial, if this is not received within 10 calendar days from the date of denial, then the decision of the Architectural Review Committee will be final. If you received a denial from the committee, the work is already done, and you do not plan on appealing to the board, you will have 10 calendar days to submit new plans to the committee, then 30 calendar days from the date of approval to complete the revised work.
 
@@ -72,10 +72,10 @@ If placing a flagpole on a house or garage, homeowners are advised to use bracke
 Suggestion would be lightweight aluminum, or fiberglass, rust-free.
 
 ##### Rating
-For wind speeds - minimum 54 MPH (for monsoon season) The owner will be responsible for all damages should flagpole damage any adjoining property (vehicles, residence, shared privacy wall, etc.).
+For wind speeds - minimum 54 MPH (for monsoon season). The owner will be responsible for all damages should flagpole damage any adjoining property (vehicles, residence, shared privacy wall, etc.).
 
 #### Gates
-Double gates may be installed to allow access ways to yards. Double gates should be the same type, design, and color as the originally installed gates or the same color as the property wall..
+Double gates may be installed to allow access ways to yards. Double gates should be the same type, design, and color as the originally installed gates or the same color as the property wall.
 
 All double gates require Committee approval. Shrubs, trees, or other plants should be located between the house and the double gates, where possible.
 
@@ -151,7 +151,8 @@ No tree, shrub, or plant of any kind on any Lot may overhang or otherwise encroa
 * Tree of Heaven
 * Giant Reed
 * African Rue
-* Iceplant Catsclaw
+* Iceplant
+* Catsclaw
 
 
 ##### Ornamentation
@@ -188,8 +189,8 @@ Play Structures may be placed in rear yards only and require review and approval
 * Any shade canopy must be a solid tan, earth tone, forest green or sky blue.
 * Submit a brochure or picture.
 
-#### Ramada’s, Gazebos and Pergolas
-Ramada’s (a flat roofed, open air shade structure), gazebos (a roofed structure that offers an open view of surrounding area) and pergolas (an open air structure with a cross beam "roof") may be considered in the rear yards only and require prior review and approval by the Committee, subject to the following guidelines:
+#### Ramadas, Gazebos, and Pergolas
+Ramadas (a flat roofed, open air shade structure), gazebos (a roofed structure that offers an open view of surrounding area), and pergolas (an open air structure with a cross beam "roof") may be considered in the rear yards only and require prior review and approval by the Committee, subject to the following guidelines:
 * Maximum square footage (under roof area) is 200 square feet.
 * Maximum roof height Is 10 feet at the highest point.
 * The structure must be set back a minimum of 4 feet from any perimeter wall.
