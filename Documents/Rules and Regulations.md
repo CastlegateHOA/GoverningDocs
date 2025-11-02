@@ -7,8 +7,7 @@ Castlegate Community Association is regulated by a series of governing documents
 4.	Rules and Regulations
 
 
-## Community Guidelines and Association Rules
-(Adopted June 16, 2003; November 2020; June 2023)
+## Design Guidelines
 
 ### Community Organization
 Every homeowner of Castlegate is a member of the Castlegate Homeowners' Association (the “Association"), the entity responsible for the management of all common areas and related homeowner’s facilities as well as administration of the affairs of the community. The Association is created by the recording of the Declaration of Covenants, Conditions, Restrictions, Reservations and Easements (the "CC&Rs"). The CC&Rs set forth procedures, rules and regulations, which govern the community. These "Design Guidelines and Association rules" are an extension of the CC&Rs and they are designed to be used in harmony.
@@ -228,29 +227,29 @@ Umbrellas and sails in the backyard visible from neighboring properties will be 
 #### Window Coverings Criteria
 No reflective materials, Including, but not limited to, aluminum foil, reflective screens or glass, mirrors or similar type items, or temporary window coverings such as newspaper or bed sheets shall be installed or placed upon the outside or inside of any window of any house without the prior written approval of the Committee. No enclosures, drapes, blinds, shades, screens, awnings, or other items affecting the exterior appearance of the house shall be constructed or installed in any home without the prior written consent of the Committee. The Board has given blanket approval to all off-white or white, shutters, mini-blinds, and vertical blinds installed on the interior of windows.
 
-### Association Rules
+## Association Rules
 The following community rules summarize some of the common provisions found in the CC&Rs as well as rules established by the Board. Cooperation on the part of all residents in following these rules will make living at Castlegate an enjoyable experience.
 
-#### Right of Entry
+### Right of Entry
 During reasonable hours and upon reasonable notice to the Owner or other Occupants of a Lot, any member of the Design Review Committee, any member of the Board, shall have the right to enter upon and inspect any Lot, and the improvements thereon, except for the interior portions of any completed Dwelling Unit, for the purpose of ascertaining whether or not the provisions of this Declaration have been, or are being, complied with, and such persons shall not be deemed guilty of trespass by reason of such entry.
 
-#### General Property Restrictions
+### General Property Restrictions
 Owners may rent only the entire lot or dwelling unit. Rental must be made only to a single family. No gainful occupation, commercial, trade or other non-residential use may be conducted on the property or receiving products or services related to such usage. Owners must receive Board permission to apply for any re-zoning, variances or use permits.
 
-#### Building Repair
+### Building Repair
 No building or structure shall be permitted to fall into a state of disrepair. The Owner of every home or structure is responsible at all times for keeping the buildings in good condition and adequately painted or otherwise finished. In the event any building or structure is damaged or destroyed, the Owner is responsible for immediate repair or reconstruction. Roofs must be kept in good condition at all times.
 
-#### Trash/Recycling Containers and Collection
+### Trash/Recycling Containers and Collection
 No garbage or trash shall be kept on any lot except in covered containers as provided by the city. These containers must be stored out of sight except for days of collection. The only exception to this guideline would be bulk-trash collection days as set forth by the city.
 
-#### Parking
+### Parking
 It is the intent of the Declaration to prohibit on street parking as much as possible. Vehicles of all Owners, Lessees and Residents are to be parked in garages or the driveway(s) of the Lot so long as space is available. On-street parking shall be for temporary or overflow parking only. No garage located on a Lot shall be used for any purpose other than the parking of vehicles and other household items, and in no event shall any such garage be converted to living area. In no event shall a disabled or inoperable vehicle be maintained where visible from neighboring property. Vehicles may not park on the front or side yard landscape, with the only exception being parking on an approved driveway expansion constructed of 1/4" minus decomposed granite.
 
 Campers, Boats, Commercial, Recreational, and all other Motorized Vehicles
 
 No motor vehicle classed by manufacturer as exceeding 3/4 ton, mobile home, travel trailer, camper shell, boat, or other similar equipment or vehicle may be parked, maintained, or repaired on any lot or on any street so as to be visible from neighboring property. Temporary parking of recreational vehicles, boats and similar equipment will be permitted, if it is apparent that the item(s) are being loaded or unloaded. All motorized vehicles, including ATVs, motorcycles, go-carts, and similar vehicles (such as dune buggies) are prohibited from entering onto any common areas. No commercial vehicles exceeding a gross vehicle weight of 10,000 pounds shall be parked on streets or lots in the community. Vendors may park for a reasonable amount of time while rendering a service.
 
-#### Pets
+### Pets
 Residents are allowed to keep a reasonable number of generally recognized house or yard pets. Animals cannot be kept or raised for commercial purposes, and they are not allowed to make an unreasonable amount of noise or become a nuisance to neighbors. Dog runs must have prior approval of the Committee. Dogs must remain on leashes at all times while outside fenced yards and are not allowed on or within 100 feet of tot lots or play areas. All owners must clean up after their pet.
 
 
