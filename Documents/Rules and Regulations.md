@@ -94,7 +94,7 @@ All yards must be maintained in a neat, weed free, debris free condition.
 No tree, shrub, or plant of any kind on any Lot may overhang or otherwise encroach upon any sidewalk or other pedestrian way from ground level to a height of eight (8) feet.
 
 ##### Landscape Design Requirements
-* A minimum of one 15-gallon tree on all lots (live and planted in-ground). A cactus is an acceptable substitution so long as it is a minimum of five (5) feet tall when planted (not at full maturity).
+* A minimum of one 15-gallon tree in all front yards (live and planted in-ground). A cactus is an acceptable substitution so long as it is a minimum of five (5) feet tall when planted (not at full maturity).
 * A minimum of three 2.5-gallon shrubs must be maintained in the front yard at all times (live and planted in-ground).
 * Granite: approved size range from 1/4”-1” in size and must be of a natural earth tone color. White, green or red rock will not be approved. River rock may be used sparingly in accent locations only.
 * Woodchips may not be used as groundcover.
