@@ -1,5 +1,6 @@
 # Rules and Regulations of the Castlegate Community Association
 
+## Governing Document Hierarchy
 Castlegate Community Association is regulated by a series of governing documents. Conflicts or ambiguities can arise between documents. When they do, the item that is higher on the list prevails. The hierarchy is:
 1.	CC&Rs
 2.	Articles of Incorporation
