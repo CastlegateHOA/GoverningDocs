@@ -96,7 +96,7 @@ Unless otherwise provided in the Community Documents, if a quorum is present at 
 
 ### 3.1. Number and Terms of Office.
 
-The affairs of this Association shall be managed by a board of directors. The initial Board shall consist of three (3) directors as provided in the Articles. At no time shall the Board of Directors consist of more than nine (9) directors. All directors must be Members of the Association.
+The affairs of this Association shall be managed by a board of directors. The initial Board shall consist of three (3) directors as provided in the Articles. At no time shall the Board of Directors consist of more than nine (9) directors. All directors must be Members of the Association. To be eligible to be a candidate for the Board, a Member must meet the following qualifications: (i) be current in payment of Assessments or any other amounts due to the Association under the Community Documents, and/or (ii) not be a party to lawsuit with the Association or any of its Board Directors.
 
 The Board may increase or decrease the number of directors on the Board within the minimum and maximum number of directors prescribed by this Section, but the number of directors must always be an odd number. If the number of directors is increased by the Board, the persons appointed to fill the vacancies created by the new directorships shall serve until the next annual meeting of the Members at which time the Members shall determine the term of office of each new directorship and elect a successor to the person appointed by the Board.
 
