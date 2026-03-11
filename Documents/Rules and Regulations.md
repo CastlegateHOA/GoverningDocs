@@ -53,7 +53,7 @@ Portable basketball goals or backboards must be stored on the homeowner's lot an
 Clotheslines or other outside facilities for drying clothes are not permitted unless they are placed exclusively within a fenced yard and not visible above the top of the block wall or otherwise concealed.
 
 #### Driveways/Driveway Extensions
-Driveways may not be expanded without the prior approval of the Committee. Any damage incurred will be the sole responsibility of the homeowner.
+Driveways may not be expanded without the prior approval of the Committee. Any damage incurred will be the sole responsibility of the homeowner. Driveway extensions should include clean identification of where the extension extends (end of cement, curbing, etc.)
 
 #### Flagpoles
 Pursuant to A.R.S. 33-1808, flagpole installations must comply with the following:
