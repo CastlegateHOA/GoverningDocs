@@ -265,22 +265,22 @@ Per to A.R.S. §33-1804(A), the Board of Directors has the authority to adopt re
 
 ## Fine Policy & Fine Appeal Process
 
-Effective March 26, 2024
+Effective June 5, 2026
 
 ### Fine Policy
 The following Fine and Appeals Policy shall be followed for Castlegate Community Association.
 
-First notice: A courtesy notice of the violation shall be mailed via regular mail to the homeowner requesting compliance within fourteen (14) days - NO FINE.
+First notice: A courtesy notice of the violation shall be mailed via regular mail to the homeowner requesting compliance within twenty-one (21) days - NO FINE.
 
-Second notice: If violation still exists, a second notice requesting compliance within fourteen (14) days shall be mailed to the homeowner. A $25.00 FINE will be assessed and due immediately with the second notice.
+Second notice: If violation still exists, a second notice requesting compliance within twenty-one (21) days shall be mailed to the homeowner. A $25.00 FINE will be assessed and due immediately with the second notice.
 
-Third notice: If violation still exists, a third notice requesting compliance within fourteen (14) days shall be mailed to the homeowner. A $50.00 FINE will be assessed and due immediately with the third notice.
+Third notice: If violation still exists, a third notice requesting compliance within twenty-one (21) days shall be mailed to the homeowner. A $50.00 FINE will be assessed and due immediately with the third notice.
 
-Fourth notice: If violation still exists, a fourth notice requesting compliance within fourteen (14) days shall be mailed to the homeowner. A $100.00 FINE will be assessed and due immediately with the fourth notice.
+Fourth notice: If violation still exists, a fourth notice requesting compliance within twenty-one (21) days shall be mailed to the homeowner. A $200.00 FINE will be assessed and due immediately with the fourth notice.
 
-Continuing violations: If the violation continues without resolution after the fourth notice, a FINE of $100.00 shall be assessed every fourteen (14) days until the violation is resolved. In addition, the Board shall have the right to remedy the violation and/or take legal action, the cost of which shall be billed to the homeowner and collected as allowed by Arizona Revised Statutes.
+Continuing violations: If the violation continues without resolution after the fourth notice, a FINE of $200.00 shall be assessed every twenty-one (21) days until the violation is resolved. In addition, the Board shall have the right to remedy the violation and/or take legal action, the cost of which shall be billed to the homeowner and collected as allowed by Arizona Revised Statutes.
 
-Fines: No fine shall be imposed without first providing a written warning to the Owner describing the violation and stating that failure to stop the violation within no less than fourteen (14) days or **another recurrence of the same violation within three (3) months of the original violation** shall make the Owner subject to imposition of a fine.
+Fines: No fine shall be imposed without first providing a written warning to the Owner describing the violation and stating that failure to stop the violation within no less than twenty-one (21) days or **another recurrence of the same violation within three (3) months of the original violation** shall make the Owner subject to imposition of a fine.
 
 Notwithstanding the foregoing, the Board reserves the right to remedy, regardless of the presence or absence of notices hereunder, any violation that the Board determines in its sole and absolute discretion constitutes a material danger to persons or property or requires immediate action for any other substantial reason.
 
@@ -299,7 +299,7 @@ Notwithstanding the foregoing, the Board reserves the right to remedy, regardles
 * The homeowner who is appealing will be asked to state their case and present any documentation that is applicable.
 * Each Board Member will have the opportunity to ask the homeowner specific questions regarding the appeal.
 * Upon completion of the question and answer period, the Board President will state that the appeal has been heard and the Board will make their decision in closed session. Then "Written Notice" will be given to the homeowner of the Board’s decision within seven (7) working days.
-* If the appeal is denied, the homeowner must bring the violation into compliance within fourteen (14) days. If the violation still exists after fourteen (14) days, the homeowner will be fined $100.00 every fourteen (14) days until the violation is corrected. In addition, the Board of Directors may seek legal action to remedy the violation.
+* If the appeal is denied, the homeowner must bring the violation into compliance within twenty-one (21) days. If the violation still exists after twenty-one (21) days, the homeowner will be fined $200.00 every twenty-one (21) days until the violation is corrected. In addition, the Board of Directors may seek legal action to remedy the violation.
 
 
 ## Assessment Collection Policy
