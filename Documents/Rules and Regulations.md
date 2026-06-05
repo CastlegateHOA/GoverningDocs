@@ -379,13 +379,12 @@ President and Director, Board of Directors
 Castlegate Community Association
 
 
-## Board Code of Conduct
+## Board
 
-Effective February 1, 2019
+### Meetings
+The president of the board in conjunction with the managing agent is delegated the power to set the agenda for all meetings of the board. The president is also delegated the power to craft and restate motions presented in board meetings.
 
-Pursuant to the authority contained in the Arizona Revised Statutes and the governing document of the association, the Board of Directors of the Castlegate Community Association Inc. hereby adopts the following resolution by unanimous consent for and as the actions of the Castlegate Community Association, as of the date set forth above:
-
-RESOLVED, to adopt the following:
+### Code of Conduct
 
 The Homeowners Association Board of Directors has approved the following code of conduct for its members to ensure that they maintain a high standard of ethical conduct in the performance of the Association business, and to ensure that the residents maintain confidence in and respect for the entire Board.
 
